@@ -1,7 +1,9 @@
 ### awslogs by container
 awslogs を利用するためのコンテナを提供します。
 ホストが汚れないためおすすめです。
-利用方法は awslogs.pa1 を実行するだけです。
+利用方法は以下を実行するだけです。
+- Windows: awslogs.pa1
+- Mac: awslogs.sh
 
 ### 前提
 * Docker for Windows がインストールされていること。
