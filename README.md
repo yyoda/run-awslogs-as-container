@@ -6,7 +6,7 @@ awslogs を利用するためのコンテナを提供します。
 - Mac: awslogs.sh
 
 ### 前提
-* Docker for Windows がインストールされていること。
+* Docker for {Windows|Mac} がインストールされていること。
 * ~/.aws/credentials が設置済であること。
 
 ### awslogs
